@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BrettFM]]></title>
         <description><![CDATA[BrettFM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brettfm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 16:59:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 17:16:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brettfm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://lh3.googleusercontent.com/rjSwlVhSm9jA4C5x-eUNxakwSgIWZK1zAkF0bxXWywXGnLBefvbz-IVRaujJgy5mVCQqTw=w1920-h1080-rw-no">]]></description>
+            <link>https://plus.google.com/photos/photo/107142699899449676472/6211520416820902770</link>
+            <guid isPermaLink="false">eb76205e-53bc-4e44-b7e5-bcd1f68346ec</guid>
+            <pubDate>Mon, 21 Dec 2015 17:16:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test]]></title>
-            <description><![CDATA[<h1>Test</h1>]]></description>
-            <link>undefinedtest/index.html</link>
+            <description><![CDATA[<article><h1>Test</h1><p>This is a test of the first post.</p></article>]]></description>
+            <link>https://thegrid.ai/brettfm/test/index.html</link>
             <guid isPermaLink="false">02041b1d-279d-455e-8748-82072c5e247f</guid>
             <pubDate>Mon, 21 Dec 2015 16:59:44 GMT</pubDate>
         </item>
